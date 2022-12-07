@@ -6,11 +6,11 @@ An efficient data structure takes minimum memory space and requires minimum time
 --->Algorithm is defined as a process or set of well-defined instructions that are typically used to solve a particular group of problems or perform 
 a specific type of calculation. To explain in simpler terms, it is a set of operations performed in a step-by-step manner to execute a task
 
-                            Types Of DSA
-                                  |
-                                  |
-                                  |  
-  1)Linear Data Structure                  2)Non-Linear Data Structure
+                               Types Of DSA
+                                    |
+                                    |
+                                    |  
+        1)Linear Data Structure                  2)Non-Linear Data Structure
           |                                         |
           |---> Array                               |---> Graph
           |                                         |
