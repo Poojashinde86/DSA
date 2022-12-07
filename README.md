@@ -7,9 +7,10 @@ An efficient data structure takes minimum memory space and requires minimum time
 a specific type of calculation. To explain in simpler terms, it is a set of operations performed in a step-by-step manner to execute a task
 
                             Types Of DSA
-                                   |
-                                   |
-                                   |                                                                                                                                      1)Linear Data Structure                2)Non-Linear Data Structure
+                                  |
+                                  |
+                                  |  
+1)Linear Data Structure               2)Non-Linear Data Structure
           |                                         |
           |---> Array                               |---> Graph
           |                                         |
