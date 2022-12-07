@@ -10,7 +10,7 @@ a specific type of calculation. To explain in simpler terms, it is a set of oper
                                   |
                                   |
                                   |  
-1)Linear Data Structure               2)Non-Linear Data Structure
+  1)Linear Data Structure                  2)Non-Linear Data Structure
           |                                         |
           |---> Array                               |---> Graph
           |                                         |
